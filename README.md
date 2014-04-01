@@ -8,7 +8,7 @@ Usage
 
 - nothing
 
-hosting
+Hosting
 -----------
 
 - gh-pages
@@ -16,6 +16,6 @@ hosting
 Author
 -------
 
-- [Morita naoki](http://moritanaoki.com)
+- [Morita naoki](http://moritanaoki.org)
   - [Twitter](http://twitter.com/morizotter)
   - [Facebook](http://facebook.com/morizotter)
